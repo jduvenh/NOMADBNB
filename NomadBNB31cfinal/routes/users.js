@@ -12,7 +12,8 @@ const transporter = nodemailer.createTransport(
       auth: {
         api_key:
           //'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'
-          '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'
+          //'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'
+          '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'
       }
     })
   );
